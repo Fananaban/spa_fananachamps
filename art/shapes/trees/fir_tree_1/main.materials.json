@@ -1,12 +1,12 @@
 {
-  "fir_tree_1_branch_2" : {
+  "fir_tree_1_branch_1" : {
     "name" : "fir_tree_1_branch_1",
     "mapTo" : "fir_tree_1_branch_1",
     "class" : "Material",
     "Stages" : [
       {
-        "colorMap" : "/textures/branch_1/branch_1_diffuse.png",
-        "normalMap" : "/textures/branch_1/branch_1_norm.png",
+        "colorMap" : "branch_1_diffuse.png",
+        "normalMap" : "branch_1_norm.png",
         "specularPower" : 1,
         "useAnisotropic" : true
       },
@@ -21,14 +21,14 @@
     "materialTag2" : "Natural",
     "materialTag3" : "vegetation"
   },
-  "fir_tree_2_branch_2" : {
-    "name" : "fir_tree_1_branch_1",
+  "fir_tree_1_branch_2" : {
+    "name" : "fir_tree_1_branch_2",
     "mapTo" : "fir_tree_1_branch_2",
     "class" : "Material",
     "Stages" : [
       {
-        "colorMap" : "/textures/branch_1/branch_1_diffuse.png",
-        "normalMap" : "/textures/branch_1/branch_1_norm.png",
+        "colorMap" : "branch_1_diffuse.png",
+        "normalMap" : "branch_1_norm.png",
         "specularPower" : 1,
         "useAnisotropic" : true
       },
@@ -49,9 +49,9 @@
     "class" : "Material",
     "Stages" : [
       {
-        "colorMap" : "/textures/trunk/trunk_diffuse.png",
-        "normalMap":"/textures/trunk/trunk_norm.png",
-        "specularMap" : "/textures/trunk/trunk_spec.png",
+        "colorMap" : "trunk_diffuse.png",
+        "normalMap":"trunk_norm.png",
+        "specularMap" : "trunk_spec.png",
         "specularPower" : 1
       },
       {},
