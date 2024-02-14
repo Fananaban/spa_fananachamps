@@ -1,28 +1,66 @@
 {
-  "Material_002": {
-    "name": "Material_002",
-    "mapTo": "Material.002",
-    "class": "Material",
-    "persistentId": "2d0f3f71-5fc5-4480-8163-dda7b18a423b",
-    "Stages": [
+  "fir_tree_1_branch_2" : {
+    "name" : "fir_tree_1_branch_1",
+    "mapTo" : "fir_tree_1_branch_1",
+    "class" : "Material",
+    "Stages" : [
       {
-        "diffuseColor": [
-          0.0712091774,
-          0.0509981811,
-          0.0289958604,
-          1
-        ]
+        "colorMap" : "/textures/branch_1/branch_1_diffuse.png",
+        "normalMap" : "/textures/branch_1/branch_1_norm.png",
+        "specularPower" : 1,
+        "useAnisotropic" : true
       },
-      {
-        "diffuseColor": null
-      },
-      {
-        "diffuseColor": null
-      },
-      {
-        "diffuseColor": null
-      }
+      {},
+      {},
+      {}
     ],
-    "translucentBlendOp": "None"
+    "alphaRef" : 50,
+    "alphaTest" : true,
+    "materialTag0" : "FananaBan",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation"
+  },
+  "fir_tree_2_branch_2" : {
+    "name" : "fir_tree_1_branch_1",
+    "mapTo" : "fir_tree_1_branch_2",
+    "class" : "Material",
+    "Stages" : [
+      {
+        "colorMap" : "/textures/branch_1/branch_1_diffuse.png",
+        "normalMap" : "/textures/branch_1/branch_1_norm.png",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 50,
+    "alphaTest" : true,
+    "materialTag0" : "FananaBan",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation"
+  },
+  "fir_tree_1_trunk" : {
+    "name" : "fir_tree_1_trunk",
+    "mapTo" : "fir_tree_1_trunk",
+    "class" : "Material",
+    "Stages" : [
+      {
+        "colorMap" : "/textures/trunk/trunk_diffuse.png",
+        "normalMap":"/textures/trunk/trunk_norm.png",
+        "specularMap" : "/textures/trunk/trunk_spec.png",
+        "specularPower" : 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "FananaBan",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "specularStrength0" : "0.392157"
   }
 }
