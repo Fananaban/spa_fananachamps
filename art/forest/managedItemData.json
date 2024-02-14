@@ -1,0 +1,30 @@
+{
+  "tro_bush_small": {
+    "name": "tro_bush_small",
+    "internalName": "tro_bush_small",
+    "class": "TSForestItemData",
+    "persistentId": "6edd1310-d876-4691-ad3b-7139e22a9b59",
+    "branchAmp": 0.200000003,
+    "dampingCoefficient": 4,
+    "detailAmp": 0.200000003,
+    "detailFreq": 0.5,
+    "radius": 0.5,
+    "shapeFile": "levels/spa_fananachamps/art/shapes/trees/bush_tropical_1/tro_bush_small.dae",
+    "trunkBendScale": 0.0500000007,
+    "windScale": 0.400000006
+  },
+  "tro_tree_1_bush_large": {
+    "name": "tro_tree_1_bush_large",
+    "internalName": "tro_tree_1_bush_large",
+    "class": "TSForestItemData",
+    "persistentId": "c59ff512-baad-42bb-8fa7-b8d62792afba",
+    "branchAmp": 0.200000003,
+    "dampingCoefficient": 4,
+    "detailAmp": 0.200000003,
+    "detailFreq": 0.5,
+    "radius": 0.5,
+    "shapeFile": "levels/spa_fananachamps/art/shapes/trees/bush_tropical_1/tro_tree_1_bush_large.dae",
+    "trunkBendScale": 0.0500000007,
+    "windScale": 0.400000006
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Material_001": {
+    "name": "Material_001",
+    "mapTo": "Material.001",
+    "class": "Material",
+    "persistentId": "8e8b660c-fd89-4aef-bce7-897f93a5649e",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.800000012,
+          0.800000012,
+          0.800000012,
+          1
+        ]
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      },
+      {
+        "diffuseColor": null
+      }
+    ],
+    "translucentBlendOp": "None"
+  },
+  "spa_satellite": {
+    "name": "spa_satellite",
+    "mapTo": "spa-satellite",
+    "class": "Material",
+    "persistentId": "c0c22b65-dc71-4774-b14c-efeb5a21286d",
+    "Stages": [
+      {
+        "colorMap": "spa-satellite"
+      },
+      {},
+      {},
+      {}
+    ],
+    "translucentBlendOp": "None"
+  }
+}

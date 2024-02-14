@@ -1,0 +1,12 @@
+{
+  "title": "levels.spa_fananachamps.info.title",
+  "description": "levels.spa_fananachamps.info.description",
+  "previews": ["spa_fananachamps_preview.jpg"],
+  "size": [2048, 2048],
+  "biome": "levels.spa_fananachamps.info.description",
+  "roads": "levels.spa_fananachamps.info.description",
+  "suitablefor": "levels.spa_fananachamps.info.description",
+  "features": "levels.spa_fananachamps.info.description",
+  "isAuxiliary": true,
+  "authors": "BeamNG"
+}

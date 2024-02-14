@@ -1,0 +1,31 @@
+{
+  "BeachSand-53659627-ac50-4812-ab11-19b5872dd312": {
+    "internalName": "BeachSand",
+    "class": "TerrainMaterial",
+    "persistentId": "53659627-ac50-4812-ab11-19b5872dd312",
+    "detailMap": "levels/spa_fananachamps/art/terrains/Sand-01-D.dds",
+    "detailStrength": 0.699999988,
+    "diffuseMap": "levels/spa_fananachamps/art/terrains/Overlay_Sand-01.dds",
+    "diffuseSize": 2048,
+    "groundmodelName": "BEACHSAND",
+    "macroMap": "levels/spa_fananachamps/art/terrains/macro_rockydirt.dds",
+    "macroSize": 50,
+    "macroStrength": 0.150000006,
+    "normalMap": "levels/spa_fananachamps/art/terrains/Sand-01-N.dds"
+  },
+  "Grass-c2267fe8-dfcc-419a-9227-bbee09484f00": {
+    "internalName": "Grass",
+    "class": "TerrainMaterial",
+    "persistentId": "c2267fe8-dfcc-419a-9227-bbee09484f00",
+    "detailMap": "levels/spa_fananachamps/art/terrains/Grass-01-D.dds",
+    "detailSize": 3,
+    "diffuseMap": "levels/spa_fananachamps/art/terrains/Overlay_Grass-01.dds",
+    "diffuseSize": 150,
+    "groundmodelName": "GRASS",
+    "macroDistance": 350,
+    "macroMap": "levels/spa_fananachamps/art/terrains/Macro_grass.dds",
+    "macroSize": 60,
+    "macroStrength": 0.5,
+    "normalMap": "levels/spa_fananachamps/art/terrains/Grass-01-N.dds"
+  }
+}
