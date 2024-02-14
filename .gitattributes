@@ -3,3 +3,4 @@
 .ter filter=lfs diff=lfs merge=lfs -text
 terrain2.ter filter=lfs diff=lfs merge=lfs -text
 theTerrain.ter filter=lfs diff=lfs merge=lfs -text
+terrain.ter filter=lfs diff=lfs merge=lfs -text
