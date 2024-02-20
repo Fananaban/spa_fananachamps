@@ -5,23 +5,23 @@
     "class": "TerrainMaterial",
     "persistentId": "a4cbb0c9-c66e-44eb-a04a-147eff1af7b8",
     "annotation": "SAND",
-    "aoBaseTex": "",
+    "aoBaseTex": "/levels/spa_fananachamps/art/terrains/t_terrain_base_ao.png",
     "aoBaseTexSize": 4096,
-    "aoDetailTex": "",
-    "aoMacroTex": "",
+    "aoDetailTex": "/levels/spa_fananachamps/art/terrains/t_beachsand_ao.png",
+    "aoMacroTex": "/levels/spa_fananachamps/art/terrains/t_macro_sand_ao.png",
     "aoMacroTexSize": 50,
-    "baseColorBaseTex": "",
+    "baseColorBaseTex": "/levels/spa_fananachamps/art/terrains/t_terrain_base_b.png",
     "baseColorBaseTexSize": 4096,
     "baseColorDetailStrength": [
       0.349999994,
       0
     ],
-    "baseColorDetailTex": "",
+    "baseColorDetailTex": "/levels/spa_fananachamps/art/terrains/t_beachsand_b.png",
     "baseColorMacroStrength": [
       0.400000006,
       0.699999988
     ],
-    "baseColorMacroTex": "",
+    "baseColorMacroTex": "/levels/spa_fananachamps/art/terrains/t_macro_sand_b.png",
     "baseColorMacroTexSize": 50,
     "detailDistAtten": [
       0,
@@ -34,10 +34,10 @@
       50
     ],
     "groundmodelName": "BEACHSAND",
-    "heightBaseTex": "",
+    "heightBaseTex": "/levels/spa_fananachamps/art/terrains/t_terrain_base_h.png",
     "heightBaseTexSize": 4096,
-    "heightDetailTex": "",
-    "heightMacroTex": "",
+    "heightDetailTex": "/levels/spa_fananachamps/art/terrains/t_beachsand_h.png",
+    "heightMacroTex": "/levels/spa_fananachamps/art/terrains/t_macro_sand_h.png",
     "heightMacroTexSize": 50,
     "macroDistAtten": [
       0.200000003,
@@ -49,31 +49,31 @@
       1000,
       3000
     ],
-    "normalBaseTex": "",
+    "normalBaseTex": "/levels/spa_fananachamps/art/terrains/t_terrain_base_nm.png",
     "normalBaseTexSize": 4096,
     "normalDetailStrength": [
       0.800000012,
       0
     ],
-    "normalDetailTex": "",
+    "normalDetailTex": "/levels/spa_fananachamps/art/terrains/t_beachsand_nm.png",
     "normalMacroStrength": [
       0.100000001,
       0.0500000007
     ],
-    "normalMacroTex": "",
+    "normalMacroTex": "/levels/spa_fananachamps/art/terrains/t_macro_sand_nm.png",
     "normalMacroTexSize": 50,
-    "roughnessBaseTex": "",
+    "roughnessBaseTex": "/levels/spa_fananachamps/art/terrains/t_terrain_base_r.png",
     "roughnessBaseTexSize": 4096,
     "roughnessDetailStrength": [
       0.5,
       0.100000001
     ],
-    "roughnessDetailTex": "",
+    "roughnessDetailTex": "/levels/spa_fananachamps/art/terrains/t_beachsand_r.png",
     "roughnessMacroStrength": [
       0.100000001,
       0.600000024
     ],
-    "roughnessMacroTex": "",
+    "roughnessMacroTex": "/levels/spa_fananachamps/art/terrains/t_macro_sand_r.png",
     "roughnessMacroTexSize": 50
   }
 }
