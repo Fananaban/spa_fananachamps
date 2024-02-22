@@ -5,5 +5,5 @@
 {"name":"PlayerDropPoints","class":"SimGroup","persistentId":"82eefe22-2e14-409d-8e98-260f7e6ba790","__parent":"MissionGroup","enabled":"1"}
 {"name":"AIWaypointsGroup","class":"SimGroup","persistentId":"374b041e-3086-4feb-91eb-1708217f10b2","__parent":"MissionGroup"}
 {"name":"AIDecalWaypointsGroup","class":"SimGroup","persistentId":"8ef12cd8-5502-4cb0-8c25-1354a6bcdec6","__parent":"MissionGroup"}
-{"name":"theTerrain","class":"TerrainBlock","persistentId":"eef993bb-c719-495a-80c7-4b61698f1f7a","__parent":"MissionGroup","position":[-2048,-2048,0],"baseTexSize":4096,"maxHeight":208,"terrainFile":"/levels/spa_fananachamps/terrain.ter"}
 {"class":"TSStatic","persistentId":"6f6b0fd1-af7b-4002-9d18-1b34ec3388b7","__parent":"MissionGroup","collisionType":"Visible Mesh","isRenderEnabled":false,"rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881],"shapeName":"/levels/spa_fananachamps/art/shapes/spa-racetrack/track road/track.dae","useInstanceRenderData":true}
+{"name":"theTerrain","class":"TerrainBlock","persistentId":"f2796894-b449-47d9-a851-a27619681111","__parent":"MissionGroup","position":[-2048,-2048,0],"materialTextureSet":"spa_fananachampsTerrainMaterialTextureSet","maxHeight":208,"terrainFile":"/levels/spa_fananachamps/terrain3.ter"}
