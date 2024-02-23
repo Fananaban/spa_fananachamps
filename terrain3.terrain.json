@@ -7,7 +7,8 @@
   "layerMapItemSize": 1,
   "layerMapSize": 16777216,
   "materials": [
-    "NewMaterial"
+    "BaseGrass",
+    "ForestFloor"
   ],
   "size": 4096,
   "version": 8
