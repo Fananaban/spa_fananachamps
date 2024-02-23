@@ -1,33 +1,33 @@
 {
-  "NewMaterial-6b2549f4-a732-4ab1-816f-ced6f90f9d9e": {
-    "internalName": "NewMaterial",
+  "BaseGrass-6b2549f4-a732-4ab1-816f-ced6f90f9d9e": {
+    "internalName": "BaseGrass",
     "class": "TerrainMaterial",
     "persistentId": "6b2549f4-a732-4ab1-816f-ced6f90f9d9e",
     "aoBaseTex": "/levels/spa_fananachamps/art/terrains/terrainBase/terrain_base_ao.png",
     "aoBaseTexSize": 4096,
-    "aoDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/grass-7_ao.png",
+    "aoDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Detail/grass-7_ao.png",
     "aoDetailTexSize": 1,
-    "aoMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/GroundGrassFieldGreen001_ao.png",
+    "aoMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Macro/GroundGrassFieldGreen001_ao.png",
     "baseColorBaseTex": "/levels/spa_fananachamps/art/terrains/terrainBase/terrain_base_b.png",
     "baseColorBaseTexSize": 4096,
     "baseColorDetailStrength": [
       0.300000012,
       0.300000012
     ],
-    "baseColorDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/grass-7_diffuse_b.jpg",
+    "baseColorDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Detail/grass-7_diffuse_b.jpg",
     "baseColorDetailTexSize": 1,
     "baseColorMacroStrength": [
       0.300000012,
       0.300000012
     ],
-    "baseColorMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/GroundGrassFieldGreen001_COL_2K_b.jpg",
+    "baseColorMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Macro/GroundGrassFieldGreen001_COL_2K_b.jpg",
     "detailDistances": [
       0,
       0,
       5,
       20
     ],
-    "groundmodelName": "ASPHALT",
+    "groundmodelName": "GRASS",
     "heightBaseTexSize": 4096,
     "heightDetailTexSize": 1,
     "macroDistances": [
@@ -38,14 +38,42 @@
     ],
     "normalBaseTex": "/levels/spa_fananachamps/art/terrains/terrainBase/terrain_base_nrm.png",
     "normalBaseTexSize": 4096,
-    "normalDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/grass-7_normals.jpg",
+    "normalDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Detail/grass-7_normals.jpg",
     "normalDetailTexSize": 1,
-    "normalMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/GroundGrassFieldGreen001_NRM_2K.jpg",
+    "normalMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Macro/GroundGrassFieldGreen001_NRM_2K.jpg",
     "roughnessBaseTex": "/levels/spa_fananachamps/art/terrains/terrainBase/terrain_base_r.png",
     "roughnessBaseTexSize": 4096,
-    "roughnessDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/grass-7_smooth.jpg",
+    "roughnessDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Detail/grass-7_smooth.jpg",
     "roughnessDetailTexSize": 1,
-    "roughnessMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/GroundGrassFieldGreen001_r.png"
+    "roughnessMacroTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Grass/Macro/GroundGrassFieldGreen001_r.png"
+  },
+  "ForestFloor-7737eea6-6994-4f5d-be54-a2215e7b1c1a": {
+    "internalName": "ForestFloor",
+    "class": "TerrainMaterial",
+    "persistentId": "7737eea6-6994-4f5d-be54-a2215e7b1c1a",
+    "aoBaseTex": "/levels/spa_fananachamps/art/terrains/forestBase/terrain_base_ao.png",
+    "aoBaseTexSize": 4096,
+    "aoDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Forest Floor/xdfedbe_4K_AO.jpg",
+    "aoDetailTexSize": 3,
+    "baseColorBaseTex": "/levels/spa_fananachamps/art/terrains/forestBase/forest_base_b.png",
+    "baseColorBaseTexSize": 4096,
+    "baseColorDetailStrength": [
+      0.5,
+      0.5
+    ],
+    "baseColorDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Forest Floor/xdfedbe_4K_Albedo_b.jpg",
+    "baseColorDetailTexSize": 3,
+    "groundmodelName": "LEAVES_THIN",
+    "heightBaseTexSize": 4096,
+    "heightDetailTexSize": 3,
+    "normalBaseTex": "/levels/spa_fananachamps/art/terrains/forestBase/forest_base_nrm.png",
+    "normalBaseTexSize": 4096,
+    "normalDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Forest Floor/xdfedbe_4K_Normal.jpg",
+    "normalDetailTexSize": 3,
+    "roughnessBaseTex": "/levels/spa_fananachamps/art/terrains/forestBase/forest_base_r.png",
+    "roughnessBaseTexSize": 4096,
+    "roughnessDetailTex": "/levels/spa_fananachamps/art/terrains/V1 Materials/Forest Floor/xdfedbe_4K_Roughness.jpg",
+    "roughnessDetailTexSize": 3
   },
   "spa_fananachampsTerrainMaterialTextureSet": {
     "name": "spa_fananachampsTerrainMaterialTextureSet",
